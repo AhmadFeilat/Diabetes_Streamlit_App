@@ -1,1 +1,1 @@
-# diabetes_preadiction
+# diabetes_streamlit_app
